@@ -20,7 +20,7 @@ A secure static website hosted on AWS S3 and served via AWS CloudFront with HTTP
 *Enabled static website hosting for the S3 bucket.*  
 
 ### 2. CloudFront Distribution Settings  
-![CloudFront Settings](assets/CloudFront_Distibution_Origin.png)  
+![CloudFront Settings](assets/CloudFront_Distribution_Origin.png)  
 *Configured CloudFront to redirect HTTP to HTTPS.*  
 
 ### 3. Secure Website Demo  
@@ -28,7 +28,7 @@ A secure static website hosted on AWS S3 and served via AWS CloudFront with HTTP
 *Website loaded with HTTPS and a valid SSL certificate.*  
 
 ### 4. S3 Bucket Policy  
-![Bucket Policy](assets/S3_Access_Blocking_for_CloudFront.png)  
+![Bucket Policy](assets/S3_Access_Blocking.png)  
 *Restricted S3 access to CloudFront using a bucket policy.*  
 
 ## 🛠️ Technologies Used  
