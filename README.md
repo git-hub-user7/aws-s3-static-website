@@ -16,19 +16,19 @@ A secure static website hosted on AWS S3 and served via AWS CloudFront with HTTP
 ## 📸 Screenshots  
 
 ### 1. S3 Bucket Static Website Hosting  
-![S3 Static Hosting](./screenshots/s3-static-hosting.png)  
+![S3 Static Hosting](assets/(1) S3 Website Hosting Settings.png)  
 *Enabled static website hosting for the S3 bucket.*  
 
 ### 2. CloudFront Distribution Settings  
-![CloudFront Settings](./screenshots/cloudfront-settings.png)  
+![CloudFront Settings](assets/(4) CloudFront Distibution Origin Access.png)  
 *Configured CloudFront to redirect HTTP to HTTPS.*  
 
 ### 3. Secure Website Demo  
-![Secure Website](./screenshots/secure-website.png)  
+![Secure Website](assets/(5) HTTPS Secure Website.png)  
 *Website loaded with HTTPS and a valid SSL certificate.*  
 
 ### 4. S3 Bucket Policy  
-![Bucket Policy](./screenshots/s3-bucket-policy.png)  
+![Bucket Policy](assets/(2) S3 Access Blocking for CloudFront.png)  
 *Restricted S3 access to CloudFront using a bucket policy.*  
 
 ## 🛠️ Technologies Used  
@@ -39,4 +39,4 @@ A secure static website hosted on AWS S3 and served via AWS CloudFront with HTTP
 ## 🔧 How to Run Locally  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/aws-s3-static-website.git  
+   git clone https://github.com/git-hub-user7/aws-s3-static-website.git  
