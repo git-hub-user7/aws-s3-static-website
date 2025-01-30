@@ -6,7 +6,7 @@
 A secure static website hosted on AWS S3 and served via AWS CloudFront with HTTPS. Built as part of my journey to learn cloud infrastructure.
 
 ## 🌐 Live Demo  
-[Click here to view the secure website]([https://d12345.cloudfront.net](https://d3ixzdcla3y4p.cloudfront.net/))  
+[Click here to view the secure website](https://d3ixzdcla3y4p.cloudfront.net/)  
 
 ## 🚀 Features  
 - **HTTPS Encryption**: Secured using AWS CloudFront.  
